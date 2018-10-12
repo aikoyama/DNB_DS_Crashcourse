@@ -1,1 +1,1 @@
-# DNB_DS_Crashcourse
+# DNB Data Science crashcourse
