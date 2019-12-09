@@ -1,8 +1,10 @@
 # DNB Graduates - Intro to Data Science for Innovation
 Welcome to the repository for the intro to data science for innovation! 
-You can find the slides from the session today **[here](https://github.com/aikoyama/DNB_DS_Crashcourse/blob/graduates/Intro%20to%20Data%20Science%20for%20Innovation.pdf)**
+You can find the PDF slides from the session today **[HERE](https://github.com/aikoyama/DNB_DS_Crashcourse/blob/graduates/Intro%20to%20Data%20Science%20for%20Innovation.pdf)** 
 
-There are two options for running the code in this repo, depending of if you have a google account.
+The original slides in pptx can be found in DNB **[OneDrive](https://dnbasa.sharepoint.com/:p:/s/9704/GDIAA/EWesLTTtQFhIqyi-HYDfBYkBGJYopw_H2EG2wwbo-HhoSQ?e=zjHPoU)**
+
+For running the code in this repo, there are two options, depending of if you have a google account.
 - Option 1: JupyterHub
 - Option 2: Google Colaboratory
 
