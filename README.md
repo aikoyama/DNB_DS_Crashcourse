@@ -1,5 +1,10 @@
 # DNB Graduates - Intro to Data Science for Innovation
 Welcome to the repository for the intro to data science for innovation! 
+Here you can find the slides from the session today:
+
+There are two options for running the code in this repo, depending of if you have a google account.
+- Option 1: JupyterHub
+- Option 2: Google Colaboratory
 
 ## Option 1 with JupyterHub: If you don't have a google account
 1. Go to: **https://mybinder.org** and fill up the fields with the following values:
