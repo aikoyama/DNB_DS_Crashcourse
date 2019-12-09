@@ -27,7 +27,7 @@ Welcome to the repository for the intro to data science for innovation!
 <br>
 
 ## Option 2 with Google Colaboratory: If you have a google account
-1 Click on the link: https://drive.google.com/file/d/1r4gYqhjyW2MjgnKuucMhAN3Iu9XcX5sJ/view?usp=sharing
+1. Click on the link: https://drive.google.com/file/d/1r4gYqhjyW2MjgnKuucMhAN3Iu9XcX5sJ/view?usp=sharing
 
 A) Click on "Open with" and if available, choose: "Google Colaboratory"
 
