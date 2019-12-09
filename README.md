@@ -6,7 +6,7 @@
 - Git branch, tag, or commit: graduates
 - Path to a notebook file (optional): CrashCourse.ipynb (choose URL)
 - and press "launch"
-![It looks like this](images/1_000.png)
+![It looks like this](images/0_000.png)
 
 2. Wait until the page loads
 ![It looks like this](images/1_001.png)
