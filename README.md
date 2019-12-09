@@ -29,16 +29,16 @@ Welcome to the repository for the intro to data science for innovation!
 ## Option 2 with Google Colaboratory: If you have a google account
 1. Click on the link: https://drive.google.com/file/d/1r4gYqhjyW2MjgnKuucMhAN3Iu9XcX5sJ/view?usp=sharing
 
-A) Click on "Open with" and if available, choose: "Google Colaboratory"
+a) Click on "Open with" and if available, choose: "Google Colaboratory"
 
-B) If the option is not available, then choose: "Connect more apps"
+b) If the option is not available, then choose: "Connect more apps"
 
 ![It looks like this](images/2_001.png)
 
-B(1). Enter "colaboratory" and press search, then select "Google Colaboratory"
+b(1). Enter "colaboratory" and press search, then select "Google Colaboratory"
 ![It looks like this](images/2_002.png)
 
-B(2). Click "Connect"
+b(2). Click "Connect"
 ![It looks like this](images/2_003.png)
 
 2. When the notebook is loaded, choose "File" -> "Save a copy in Drive"
